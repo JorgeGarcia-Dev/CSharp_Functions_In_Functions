@@ -1,0 +1,15 @@
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones2/funcionesEnFunciones1/obj/Debug/net7.0/funcionesEnFunciones1.csproj.AssemblyReference.cache
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones2/funcionesEnFunciones1/obj/Debug/net7.0/funcionesEnFunciones1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones2/funcionesEnFunciones1/obj/Debug/net7.0/funcionesEnFunciones1.AssemblyInfoInputs.cache
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones2/funcionesEnFunciones1/obj/Debug/net7.0/funcionesEnFunciones1.AssemblyInfo.cs
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones2/funcionesEnFunciones1/obj/Debug/net7.0/funcionesEnFunciones1.csproj.CoreCompileInputs.cache
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones2/funcionesEnFunciones1/bin/Debug/net7.0/funcionesEnFunciones1
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones2/funcionesEnFunciones1/bin/Debug/net7.0/funcionesEnFunciones1.deps.json
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones2/funcionesEnFunciones1/bin/Debug/net7.0/funcionesEnFunciones1.runtimeconfig.json
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones2/funcionesEnFunciones1/bin/Debug/net7.0/funcionesEnFunciones1.dll
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones2/funcionesEnFunciones1/bin/Debug/net7.0/funcionesEnFunciones1.pdb
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones2/funcionesEnFunciones1/obj/Debug/net7.0/funcionesEnFunciones1.dll
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones2/funcionesEnFunciones1/obj/Debug/net7.0/refint/funcionesEnFunciones1.dll
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones2/funcionesEnFunciones1/obj/Debug/net7.0/funcionesEnFunciones1.pdb
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones2/funcionesEnFunciones1/obj/Debug/net7.0/funcionesEnFunciones1.genruntimeconfig.cache
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones2/funcionesEnFunciones1/obj/Debug/net7.0/ref/funcionesEnFunciones1.dll
